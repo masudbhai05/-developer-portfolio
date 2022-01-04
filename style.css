@@ -8,6 +8,9 @@ body{
     display: flex;
 
 }
+section{
+    margin-bottom: 80px;
+}
 
 h1{
     font-size: 50px;
